@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Twister</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialogTitle">Oops! Sorry!</string>
+    <string name="dialogmessage">There was an error!</string>
+    <string name="ok_button">Ok</string>
+    <string name="network_unavailable">Network is unavailable!</string>
+    <string name="title_activity_daily_forecast">DailyForecastActivity</string>
+    <string name="no_forecast_data">There is no data to display!</string>
+</resources>
